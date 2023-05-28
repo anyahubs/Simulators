@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/anyahubs/Simulators/main/money_Sim.lua"))()
