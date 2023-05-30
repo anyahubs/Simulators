@@ -1,0 +1,6 @@
+_G.Credits = "https://discord.gg/Pe3jVSf6Y8"
+_G.RedGUI = false
+_G.Theme = "Dark"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/Spider.lua"))()
